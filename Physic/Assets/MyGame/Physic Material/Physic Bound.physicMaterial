@@ -6,7 +6,7 @@ PhysicMaterial:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Bound
+  m_Name: Physic Bound
   dynamicFriction: 0.6
   staticFriction: 0.6
   bounciness: 1
